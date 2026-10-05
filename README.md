@@ -8,6 +8,10 @@ The project includes a modern multi-section layout, responsive navigation, inter
 
 [View the live website](https://erenaysener.github.io/webstudio-landing-page/)
 
+## Preview
+
+![WebStudio Landing Page Preview](./webstudio-preview.png)
+
 ## Features
 
 - Responsive layout for desktop, tablet and mobile
