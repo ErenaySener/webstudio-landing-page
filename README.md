@@ -10,7 +10,7 @@ The project includes a modern multi-section layout, responsive navigation, inter
 
 ## Preview
 
-![WebStudio Landing Page Preview](./webstudio-preview.png)
+![WebStudio Landing Page Preview](./WebStudio-preview.png)
 
 ## Features
 
