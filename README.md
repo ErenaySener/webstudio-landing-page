@@ -43,3 +43,66 @@ webstudio-landing-page/
 ├── js/
 │   └── main.js
 └── index.html
+```
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ErenaySener/webstudio-landing-page.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd webstudio-landing-page
+```
+
+Open `index.html` in your browser.
+
+No additional dependencies or build tools are required.
+
+## Responsive Design
+
+The layout is adapted for different screen sizes using media queries.
+
+The project includes:
+
+- Mobile navigation
+- Tablet layouts
+- Desktop layouts
+- Responsive images
+- Retina-ready image assets
+
+## Interactions
+
+JavaScript is used for:
+
+- Opening and closing the mobile navigation menu
+- Opening and closing the service request modal
+- Closing menus and modal windows with the `Escape` key
+- Closing the modal by clicking outside the modal content
+
+## Deployment
+
+The project is deployed using GitHub Pages.
+
+## What This Project Demonstrates
+
+- Semantic HTML structure
+- Responsive CSS layouts
+- Mobile-first interface development
+- Flexbox
+- Media queries
+- SVG usage
+- Responsive images
+- Basic JavaScript DOM interaction
+- Accessible keyboard interaction
+- Static website deployment with GitHub Pages
+
+## Author
+
+**Erenay Sener**
+
+GitHub: [ErenaySener](https://github.com/ErenaySener)
